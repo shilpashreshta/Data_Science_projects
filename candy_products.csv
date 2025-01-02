@@ -1,0 +1,16 @@
+"division","Product_Name","Factory","Product_ID","Unit_Price","Unit_Cost"
+Chocolate,Wonka Bar - Nutty Crunch Surprise,Lots_O_Nuts,CHO-NUT-13000,3.49,1
+Chocolate,Wonka Bar - Fudge Mallows,Lots_O_Nuts,CHO-FUD-51000,3.6,1
+Chocolate,Wonka Bar -Scrumdiddlyumptious,Lots_O_Nuts,CHO-SCR-58000,3.6,1
+Chocolate,Wonka Bar - Milk Chocolate,Wicked_Choccy,CHO-MIL-31000,3.25,1
+Chocolate,Wonka Bar - Triple Dazzle Caramel,Wicked_Choccy,CHO-TRI-54000,3.75,1
+Sugar,Laffy Taffy,Sugar_Shack,SUG-LAF-25000,1.99,0
+Sugar,SweeTARTS,Sugar_Shack,SUG-SWE-91000,1.5,0
+Sugar,Nerds,Sugar_Shack,SUG-NER-92000,1.5,0
+Sugar,Fun Dip,Sugar_Shack,SUG-FUN-75000,1.5,0
+Other,Fizzy Lifting Drinks,Sugar_Shack,OTH-FIZ-56000,3.75,1
+Sugar,Everlasting Gobstopper,Secret_Factory,SUG-EVE-47000,10.0,2
+Sugar,Hair Toffee,The_Other_Factory,SUG-HAI-55000,4.5,1
+Other,Lickable Wallpaper,Secret_Factory,OTH-LIC-15000,20.0,10
+Other,Wonka Gum,Secret_Factory,OTH-GUM-21000,1.25,0
+Other,Kazookles,The_Other_Factory,OTH-KAZ-38000,3.25,3
