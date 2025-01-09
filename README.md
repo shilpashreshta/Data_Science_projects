@@ -14,6 +14,7 @@ The input dataset sourced from Maven Analytics> Data Playground> US Candy Distri
 ## Output: 
 Output of 'Data_Analysis.sql':
 - customerfactorydistances.csv
+- Tableau Visualization
 
 ## SQL Scripts: 
 Contains SQL scripts for creating tables, populating data and performing analysis. Also drawing Inferences.
@@ -27,7 +28,7 @@ Contains SQL scripts for creating tables, populating data and performing analysi
 - Review the Results 'Inferences.sql'
 
 ## Author
-Shilpa Shreshta
+Shilpa Walke
 Data Science Enthusiast | Passionate about solving business problems with data-driven insights.
 
 ## License
